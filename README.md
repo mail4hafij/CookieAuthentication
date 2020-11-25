@@ -1,2 +1,2 @@
 # CookieAuthentication
-A basic Cookie based authentication.
+A simple cookie based authentication in Asp.net core.
